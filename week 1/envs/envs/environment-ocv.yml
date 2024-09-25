@@ -1,0 +1,17 @@
+name: socv
+channels:
+- conda-forge
+- menpo
+- defaults
+dependencies:
+- python=3.8.5
+- numpy
+- matplotlib
+- scikit-learn
+- scipy
+- opencv=4.0.1
+- cmake
+- dlib
+- vlfeat
+- jupyter
+- pip
