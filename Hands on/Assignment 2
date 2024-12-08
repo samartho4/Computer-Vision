@@ -1,0 +1,22 @@
+Assignment: Convert a Photo into a Watercolor-Style Artwork using OpenCV
+Objective:
+The goal of this assignment is to use the OpenCV library in Python to transform a standard photograph into a watercolor-style artwork. This will involve applying image processing techniques such as smoothing, edge detection, and blending, which are commonly used to achieve artistic effects.
+step 1: Read and Preprocess the Image:
+Choose a photo of your choice and load it into your Python script using the cv2.imread() function.
+Resize the image if necessary, to ensure that it fits well on the screen.
+
+Step 2: Removing impurities from image and apply Smoothing Using Edge-Preserving Filter
+
+Step 3: Combine the Effects to Create a Watercolor Look
+
+step 4: Tune the Art
+(Tuning may include sharpening, dehazing, contrast enhancement etc )
+
+step 5: Display and Save the Result:
+Display both the original image and the final watercolor-style image using cv2.imshow().
+Save the output image using cv2.imwrite().
+
+Submission Requirements:
+Submit your Python script (.py file) and pdf file with the completed code.
+Include the original photo and the generated watercolor-style artwork (.jpg or .png format).
+Write a short report (200-300 words) describing the approach, parameters used, and observations made during the process.
